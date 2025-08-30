@@ -47,7 +47,7 @@ const Index = () => {
             <div className="fade-in">
               <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
                 Welcome to{' '}
-                <span className="hero-text">
+                <span className="text-orange-400">
                   STEM Blog + Project Showcase
                 </span>
               </h1>

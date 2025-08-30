@@ -14,7 +14,7 @@
 
     /* Card colors */
     --card: 255 255 255;
-    --card-foreground: 15 23 42;
+    --card-foreground: 36 47 48;
 
     /* Popover colors */
     --popover: 255 255 255;
@@ -41,9 +41,9 @@
     --success: 142 71% 45%;
     --success-foreground: 255 255 255;
 
-    /* Warning - Amber */
-    --warning: 38 92% 50%;
-    --warning-foreground: 15 23 42;
+    /* Warning - Coral Orange (instead of Amber) */
+    --warning: 14 90% 55%;
+    --warning-foreground: 255 255 255;
 
     /* Destructive colors */
     --destructive: 0 84% 60%;
@@ -102,8 +102,8 @@
     --success: 142 71% 55%;
     --success-foreground: 15 23 42;
 
-    /* Warning - Brighter amber */
-    --warning: 38 92% 60%;
+    /* Warning - Brighter Coral Orange */
+    --warning: 14 90% 65%;
     --warning-foreground: 15 23 42;
 
     /* Destructive colors */

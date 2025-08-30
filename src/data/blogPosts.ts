@@ -3,56 +3,32 @@ import { BlogPost } from '@/components/cards/BlogCard';
 export const blogPosts: BlogPost[] = [
   {
     id: '1',
-    title: 'Building My First AI Chatbot with Python and OpenAI',
-    description: 'Learn how I created an intelligent chatbot using Python, OpenAI\'s GPT API, and Flask. This comprehensive guide covers everything from setup to deployment, including handling user inputs, managing conversations, and implementing response filtering.',
-    tags: ['Python', 'AI', 'Machine Learning', 'OpenAI'],
-    readTime: '8 min read',
-    publishedAt: 'Dec 15, 2024',
-    author: 'Alex Chen'
+    title: 'Splay Tree: Implementation and Usage',
+    description: "A Splay Tree is a self-adjusting binary search tree where recently accessed elements are moved closer to the root. This dynamic balancing improves access times for frequently used nodes. In this blog, we explore the key features of Splay Trees, their use cases, and provide a simple C++ implementation showcasing operations such as insertion, searching, and tree rotations. Discover how Splay Trees maintain efficiency in handling non-uniform access patterns.",
+    tags: ['Data Structures', 'C++', 'Splay Tree'],
+    readTime: '5 min read',
+    publishedAt: 'Aug 17, 2024',
+    author: 'Shivam Chaturvedi',
+    link: 'https://shivamchaturvedi.vercel.app/blogs#splay-tree-implementation-and-usage'
   },
   {
     id: '2',
-    title: 'IoT Home Automation: From Sensors to Smart Actions',
-    description: 'Explore how to build a complete home automation system using Arduino, Raspberry Pi, and cloud services. We\'ll cover sensor integration, data processing, mobile app development, and creating automated responses based on environmental conditions.',
-    tags: ['IoT', 'Arduino', 'Raspberry Pi', 'Home Automation'],
-    readTime: '12 min read',
-    publishedAt: 'Dec 10, 2024',
-    author: 'Sarah Johnson'
+    title: 'AVL Trees: Implementation and Usage',
+    description: "An AVL Tree is a self-balancing binary search tree where the difference in heights of left and right subtrees (known as the balance factor) cannot be more than one for any node. This balancing ensures O(log n) time complexity for search, insertion, and deletion operations.",
+    tags: ['Data Structures', 'C++', 'AVL Tree'],
+    readTime: '10 min read',
+    publishedAt: 'Aug 17, 2024',
+    author: 'Shivam Chaturvedi',
+    link: 'https://shivamchaturvedi.vercel.app/blogs#avl-trees-implementation-and-usage'
   },
   {
     id: '3',
-    title: 'Creating a Robotic Arm with Computer Vision',
-    description: 'Dive deep into robotics and computer vision by building a precision robotic arm. This project combines mechanical engineering, computer vision algorithms, and real-time control systems to create a robot that can identify and manipulate objects.',
-    tags: ['Robotics', 'Computer Vision', 'OpenCV', 'Python'],
+    title: 'All About Graphs In Data Structures',
+    description: "Graphs are fundamental structures used to model pairwise relations between objects. They consist of nodes (vertices) and edges (connections between nodes). Graphs are used in various applications, from computer networks and social networks to recommendation systems and route planning.",
+    tags: ['Data Structures', 'Graphs', 'Algorithms'],
     readTime: '15 min read',
-    publishedAt: 'Dec 5, 2024',
-    author: 'Michael Rodriguez'
-  },
-  {
-    id: '4',
-    title: 'Full-Stack Web Development: React + Node.js + MongoDB',
-    description: 'Master modern web development by building a complete social media platform. Learn about component architecture, RESTful APIs, database design, authentication, real-time features, and deployment strategies for scalable web applications.',
-    tags: ['Web Development', 'React', 'Node.js', 'MongoDB'],
-    readTime: '10 min read',
-    publishedAt: 'Nov 30, 2024',
-    author: 'Emily Davis'
-  },
-  {
-    id: '5',
-    title: 'Machine Learning for Predictive Maintenance in Manufacturing',
-    description: 'Discover how machine learning algorithms can revolutionize industrial maintenance. We\'ll implement predictive models using sensor data, feature engineering techniques, and deployment strategies to prevent equipment failures before they happen.',
-    tags: ['Machine Learning', 'IoT', 'Data Science', 'Manufacturing'],
-    readTime: '11 min read',
-    publishedAt: 'Nov 25, 2024',
-    author: 'David Kim'
-  },
-  {
-    id: '6',
-    title: 'Quantum Computing Basics: Building Your First Quantum Circuit',
-    description: 'Enter the fascinating world of quantum computing with this beginner-friendly introduction. Learn about qubits, quantum gates, superposition, and entanglement while building and simulating your first quantum circuits using Qiskit.',
-    tags: ['Quantum Computing', 'Physics', 'Python', 'Qiskit'],
-    readTime: '14 min read',
-    publishedAt: 'Nov 20, 2024',
-    author: 'Dr. Lisa Zhang'
+    publishedAt: 'Aug 17, 2024',
+    author: 'Shivam Chaturvedi',
+    link: 'https://shivamchaturvedi.vercel.app/blogs#all-about-graphs-in-data-structures'
   },
 ];

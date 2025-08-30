@@ -9,6 +9,7 @@ export interface BlogPost {
   readTime: string;
   publishedAt: string;
   author: string;
+  link:String;
 }
 
 interface BlogCardProps {

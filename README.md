@@ -5,6 +5,9 @@ The project demonstrates how to implement a **dark mode toggle button** that swi
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dd7aaad2-b171-4217-9f61-1e98e08cea1e" />
+
+
 ## 🚀 Features
 - ⚡ Built with [Vite](https://vitejs.dev/) for fast development.
 - ⚛️ Uses [React](https://react.dev/) with TypeScript.

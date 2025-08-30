@@ -77,10 +77,4 @@ Contributions are welcome! Feel free to fork this repo, open issues, and submit 
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-
----
-
 ✨ Made with ❤️ for the STEM community.
